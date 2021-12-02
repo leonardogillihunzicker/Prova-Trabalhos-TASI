@@ -1,0 +1,52 @@
+[
+    {
+      "nome": "Astrid",
+      "telefone": 632154757,
+      "ativo": true
+    },
+    {
+      "nome": "Kamila",
+      "telefone": 998541347,
+      "ativo": true
+    },
+    {
+      "nome": "Claudio",
+      "telefone": 996521734,
+      "ativo": false
+    },
+    {
+      "nome": "Carmem",
+      "telefone": 685341726,
+      "ativo": true
+    },
+  {
+      "nome": "Paulo",
+      "telefone": 53764114,
+      "ativo": true
+    },
+    {
+      "nome": "Laura",
+      "telefone": 964728135,
+      "ativo": false
+    },
+  {
+      "nome": "Thiago",
+      "telefone": 324975161,
+      "ativo": false
+    },
+    {
+      "nome": "Roberval",
+      "telefone": 200467951,
+      "ativo": true
+    },
+  {
+      "nome": "Lorena",
+      "telefone": 534871269,
+      "ativo": false
+    },
+    {
+      "nome": "Flavia",
+      "telefone": 997546281,
+      "ativo": true
+    }
+  ]
